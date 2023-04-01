@@ -2,6 +2,6 @@
 
 ## Step  
 ```
-os.mkdir(preprocess_dataset)  
+mkdir preprocess_dataset  
 python preprocess_pipeline.py  
 ```
